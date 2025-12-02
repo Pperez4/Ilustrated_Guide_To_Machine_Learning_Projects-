@@ -6,3 +6,4 @@ I recently finished reading The Illustrated Guide to Machine Learning by Joshua 
 
 * PROJECT 1
    * VTI (Vanguard Total Stock Market Index Fund ETF) Decision Tree Using Yahoo Finance API Data to Predict if Stock Goes Up or Down. 
+<img width="434" height="228" alt="image" src="https://github.com/user-attachments/assets/79b81ace-4095-43ef-a792-7593fafcb66c" />
